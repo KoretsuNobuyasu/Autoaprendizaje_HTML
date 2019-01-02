@@ -1,0 +1,1 @@
+youtubeに乗っていたsearchのhoverの有無で表示が変わるもの
